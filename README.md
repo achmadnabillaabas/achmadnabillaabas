@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=achmadnabillaabas.achmadnabillaabas&"  />
 </div>
 
@@ -8,6 +8,7 @@
 
 
 ![.](https://i.pinimg.com/originals/ba/e9/f8/bae9f877304f3dd63ca44189ec9a33ff.gif)
+
 <!--
 **achmadnabillaabas/achmadnabillaabas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
